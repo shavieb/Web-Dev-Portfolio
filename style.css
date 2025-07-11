@@ -1,0 +1,40 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background: #fff;
+  color: #333;
+}
+
+header {
+  background: #000;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
+
+nav a {
+  color: #ffd700;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+section {
+  padding: 2rem;
+}
+
+.project-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #000;
+  color: #fff;
+}
