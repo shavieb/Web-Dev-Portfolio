@@ -4,7 +4,7 @@ Welcome to my web developer portfolio! This site showcases the projects I’ve b
 
 ## 🌐 Live Site
 
-Check it out here: [https://shavieb.github.io/web-dev-portfolio](https://shavieb.github.io/web-dev-portfolio)
+Check it out here: [https://shavieb.github.io/Web-Dev-Portfolio](https://shavieb.github.io/Web-Dev-Portfolio)
 
 ## 🛠️ Technologies Used
 
